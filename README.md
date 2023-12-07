@@ -1,2 +1,2 @@
-# currencyconverter
-Python3 CurrencyConverter
+# Currency Converter
+A currency converter built with Python.
